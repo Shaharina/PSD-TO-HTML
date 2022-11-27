@@ -1,5 +1,5 @@
 ## [RESTAURANTLY](https://shaharina.github.io/PSD-TO-HTML/)
-Welcome to the RIXIM. This website is a talented designers website making service website. This repository contains server site code.
+Welcome to the RESTAURANTLY. This website is a FOOD service website. This repository contains server site code.
 <br/>
 <br/>
 <img src="https://github.com/Shaharina/All-images/blob/main/images/Screenshot%202022-11-25%20at%2020-26-22%20Restaurantly.png">
